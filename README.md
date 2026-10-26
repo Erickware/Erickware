@@ -37,7 +37,7 @@ This is where I share projects involving software development, reverse engineeri
 | Repository | What it is | Stack | Updated |
 |:--|:--|:--|:--|
 | **[Injector](https://github.com/Erickware/Injector)** | x64 DLL injector for Windows with LoadLibrary, Manual Map and Thread Hijack. Dear ImGui interface on DirectX 11. | `C++20` `Dear ImGui` `DirectX 11` | 26 Oct 2026 |
-| **[Kernel-Driver-Bypass](https://github.com/Erickware/Kernel-Driver-Bypass)** | Windows kernel driver written in C, with parts in C++ and Assembly. | `C` `C++` `Assembly` | 24 Oct 2026 |
+| **[Kernel-Driver-Bypass](https://github.com/Erickware/Kernel-Driver-Bypass)** | Windows kernel driver written in C, with parts in C++ and Assembly. | `C` `C++` `Assembly` | 25 Oct 2026 |
 | **[fix-wsl-docker](https://github.com/Erickware/fix-wsl-docker)** | PowerShell script that fixes the WSL and Docker integration on Windows. | `PowerShell` `WSL` `Docker` | 05 Oct 2026 |
 | **[inertia](https://github.com/Erickware/inertia)** · 1 ★ | TCP and UDP port scanner: async Rust core, Python interface, per-target timeout calibration. Available on PyPI. | `Rust` `Python` `PyPI` | 08 May 2026 |
 
