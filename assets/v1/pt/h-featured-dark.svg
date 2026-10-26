@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="56" viewBox="0 0 1280 56" role="img" aria-label="Destaques">
+<rect width="1280" height="56" fill="#0D1117"/>
+<rect x="0" y="34" width="18" height="2" fill="#22D3EE"/>
+<text x="30" y="41" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" letter-spacing="3.4" fill="#22D3EE">0x10</text>
+<text x="91.6" y="41" font-family="'JetBrains Mono',ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" letter-spacing="3.4" fill="#EEF2F6">DESTAQUES</text>
+<rect x="204.6" y="35" width="1075.4" height="1" fill="#222B36"/>
+</svg>

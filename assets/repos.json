@@ -1,0 +1,24 @@
+{
+  "_": "Overrides for the repository table. 'en' and 'pt' replace the GitHub description in each README; 'stack' replaces language + topics. Keys are repository names.",
+
+  "Injector": {
+    "en": "x64 DLL injector for Windows with LoadLibrary, Manual Map and Thread Hijack. Dear ImGui interface on DirectX 11.",
+    "pt": "Injetor de DLL para Windows x64 com LoadLibrary, Manual Map e Thread Hijack. Interface em Dear ImGui sobre DirectX 11.",
+    "stack": ["C++20", "Dear ImGui", "DirectX 11"]
+  },
+  "Kernel-Driver-Bypass": {
+    "en": "Windows kernel driver written in C, with parts in C++ and Assembly.",
+    "pt": "Driver de kernel para Windows escrito em C, com partes em C++ e Assembly.",
+    "stack": ["C", "C++", "Assembly"]
+  },
+  "fix-wsl-docker": {
+    "en": "PowerShell script that fixes the WSL and Docker integration on Windows.",
+    "pt": "Script PowerShell que conserta a integração entre WSL e Docker no Windows.",
+    "stack": ["PowerShell", "WSL", "Docker"]
+  },
+  "inertia": {
+    "en": "TCP and UDP port scanner: async Rust core, Python interface, per-target timeout calibration. Available on PyPI.",
+    "pt": "Scanner de portas TCP e UDP: núcleo assíncrono em Rust, interface em Python, timeouts calibrados por alvo. Disponível no PyPI.",
+    "stack": ["Rust", "Python", "PyPI"]
+  }
+}
