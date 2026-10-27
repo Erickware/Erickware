@@ -41,7 +41,7 @@ This is where I share projects involving software development, reverse engineeri
 | **[fix-wsl-docker](https://github.com/Erickware/fix-wsl-docker)** | PowerShell script that fixes the WSL and Docker integration on Windows. | `PowerShell` `WSL` `Docker` | 05 Oct 2026 |
 | **[inertia](https://github.com/Erickware/inertia)** · 1 ★ | TCP and UDP port scanner: async Rust core, Python interface, per-target timeout calibration. Available on PyPI. | `Rust` `Python` `PyPI` | 08 May 2026 |
 
-<sub>Synced 26 Oct 2026 · public repositories only</sub>
+<sub>Synced 27 Oct 2026 · public repositories only</sub>
 <!-- OSS:END -->
 
 <p align="right"><a href="https://github.com/Erickware?tab=repositories"><b>All repositories →</b></a></p>
@@ -49,7 +49,7 @@ This is where I share projects involving software development, reverse engineeri
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/v1/en/h-stack-dark.svg"><img width="100%" src="assets/v1/en/h-stack-light.svg" alt=""></picture>
 
 <p align="center">
-  <code>TypeScript</code> <code>JavaScript</code> <code>Python</code> <code>C#</code> <code>C++</code> <code>SQL</code> <code>PHP</code><br>
+  <code>TypeScript</code> <code>JavaScript</code> <code>Python</code> <code>SQL</code> <code>PHP</code><br>
   <code>Laravel</code> <code>React</code> <code>Node.js</code> <code>PostgreSQL</code><br>
   <code>Linux</code> <code>nginx</code> <code>systemd</code> <code>GitHub Actions</code> <code>Playwright</code>
 </p>
