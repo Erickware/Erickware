@@ -36,12 +36,13 @@ Aqui compartilho projetos de desenvolvimento de software, engenharia reversa e s
 <!-- OSS:START -->
 | Repositório | O que é | Stack | Atualizado |
 |:--|:--|:--|:--|
+| **[AetherHV](https://github.com/Erickware/AetherHV)** | Stealth-focused Intel VT-x hypervisor (EAC/BE/ACs/AVs). | `C` | 28 out 2026 |
 | **[Injector](https://github.com/Erickware/Injector)** | Injetor de DLL para Windows x64 com LoadLibrary, Manual Map e Thread Hijack. Interface em Dear ImGui sobre DirectX 11. | `C++20` `Dear ImGui` `DirectX 11` | 28 out 2026 |
-| **[Kernel-Driver-Bypass](https://github.com/Erickware/Kernel-Driver-Bypass)** | Driver de kernel para Windows escrito em C, com partes em C++ e Assembly. | `C` `C++` `Assembly` | 25 out 2026 |
+| **[Kernel-Driver-Bypass](https://github.com/Erickware/Kernel-Driver-Bypass)** · 1 ★ | Driver de kernel para Windows escrito em C, com partes em C++ e Assembly. | `C` `C++` `Assembly` | 25 out 2026 |
 | **[fix-wsl-docker](https://github.com/Erickware/fix-wsl-docker)** | Script PowerShell que conserta a integração entre WSL e Docker no Windows. | `PowerShell` `WSL` `Docker` | 05 out 2026 |
 | **[inertia](https://github.com/Erickware/inertia)** · 1 ★ | Scanner de portas TCP e UDP: núcleo assíncrono em Rust, interface em Python, timeouts calibrados por alvo. Disponível no PyPI. | `Rust` `Python` `PyPI` | 08 mai 2026 |
 
-<sub>Atualizado em 28 out 2026 · apenas repositórios públicos</sub>
+<sub>Atualizado em 29 out 2026 · apenas repositórios públicos</sub>
 <!-- OSS:END -->
 
 <p align="right"><a href="https://github.com/Erickware?tab=repositories"><b>Todos os repositórios →</b></a></p>
