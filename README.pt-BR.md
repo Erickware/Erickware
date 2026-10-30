@@ -42,7 +42,7 @@ Aqui compartilho projetos de desenvolvimento de software, engenharia reversa e s
 | **[fix-wsl-docker](https://github.com/Erickware/fix-wsl-docker)** | Script PowerShell que conserta a integração entre WSL e Docker no Windows. | `PowerShell` `WSL` `Docker` | 05 out 2026 |
 | **[inertia](https://github.com/Erickware/inertia)** · 1 ★ | Scanner de portas TCP e UDP: núcleo assíncrono em Rust, interface em Python, timeouts calibrados por alvo. Disponível no PyPI. | `Rust` `Python` `PyPI` | 08 mai 2026 |
 
-<sub>Atualizado em 29 out 2026 · apenas repositórios públicos</sub>
+<sub>Atualizado em 30 out 2026 · apenas repositórios públicos</sub>
 <!-- OSS:END -->
 
 <p align="right"><a href="https://github.com/Erickware?tab=repositories"><b>Todos os repositórios →</b></a></p>

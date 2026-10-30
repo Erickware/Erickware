@@ -42,7 +42,7 @@ This is where I share projects involving software development, reverse engineeri
 | **[fix-wsl-docker](https://github.com/Erickware/fix-wsl-docker)** | PowerShell script that fixes the WSL and Docker integration on Windows. | `PowerShell` `WSL` `Docker` | 05 Oct 2026 |
 | **[inertia](https://github.com/Erickware/inertia)** · 1 ★ | TCP and UDP port scanner: async Rust core, Python interface, per-target timeout calibration. Available on PyPI. | `Rust` `Python` `PyPI` | 08 May 2026 |
 
-<sub>Synced 29 Oct 2026 · public repositories only</sub>
+<sub>Synced 30 Oct 2026 · public repositories only</sub>
 <!-- OSS:END -->
 
 <p align="right"><a href="https://github.com/Erickware?tab=repositories"><b>All repositories →</b></a></p>
